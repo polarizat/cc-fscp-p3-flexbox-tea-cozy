@@ -1,7 +1,3 @@
-/* * {
-    background-clip: border-box;
-} */
-
 body {
     background-color: black;
     font-family: Helvetica, Arial, sans-serif;
@@ -86,12 +82,6 @@ section.tea-of-the-month {
     justify-content: center;
     align-self: center;
     gap: 5%;
-    /* flex-wrap: wrap; */
-}
-
-.tea-box {
-    /* display: inline-flex; */
-    
 }
 
 img.tea-img {
@@ -113,8 +103,6 @@ img.tea-img {
     background-size: cover;
     margin-top: 64px;
     display: inline-block;
-    /* position: relative; */
-    
 }
 
 #location-title {
